@@ -1,15 +1,54 @@
-# Cooler😎
-## Beginner C# developer with 2 years of non-commercial experience.
+# 👨‍💻 Cooler
 
-I am a beginner programmer, I have completed courses in C# and .NET. I know the basics of OOP and design patterns, worked with ASP.NET Core and databases (Postgre SQL, Entity Framework). I made simple web applications using REST API and JSON. I also have experience in creating desktop applications on WPF with MVVM. I am familiar with the principles of SOLID and try to apply them. I use Git for version control. I want to develop further and gain experience in real projects!
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-I also like to code using a low level and using WINAPI.
+## 🚀 О себе
 
-## My skills include:
-- Working with high-level database abstraction (ORM).
-- Working with ASP .NET Core Web API.
-- Working with IL code using libraries (Mono.Cecil, dnlib).
-- Working with unsafe code in C#. Understanding pointers, references, manual allocation and memory cleanup, etc.
-- Working with Winforms, WPF, and little C++/CLI.
+Разработчик C# и C с опытом в низкоуровневом программировании. 2+ года непрерывной практики в разработке.
 
-> The heavier the trail, the worse the weather, the longer the pass, the stronger you become after overcoming it.
+> *"Чем тяжелее путь, чем хуже погода, чем длиннее перевал, тем сильнее ты становишься, преодолев его."*
+
+## 💼 Технический стек
+
+### 🔷 Основные навыки
+- **Языки программирования:** C#, C
+- **Фреймворки:** .NET Core, ASP.NET Core, Entity Framework
+- **UI разработка:** WPF (MVVM), Windows Forms
+- **Базы данных:** PostgreSQL
+- **Контроль версий:** Git
+
+### 🔧 Специализация
+- Разработка Web API (REST, JSON)
+- Работа с IL кодом (Mono.Cecil, dnlib)
+- Низкоуровневое программирование (WINAPI)
+- Unsafe код в C# (указатели, управление памятью)
+- C++/CLI
+
+## 🎯 Профессиональные качества
+- ООП
+- Применение принципов SOLID
+- Понимание и использование паттернов проектирования
+- Опыт создания десктопных приложений
+- Работа с ORM и базами данных
+
+## 📈 Стремления
+- Развитие навыков в реальных проектах
+- Углубление знаний в низкоуровневом программировании
+- Изучение новых технологий и подходов
+
+
+## 📚 Проекты
+[![Репозитории](https://img.shields.io/badge/Мои_проекты-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dadavadd?tab=repositories)
+
+## 🔍 Быстрые ссылки
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/larkliy)
+- [![VK](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id547633333)
+
+## 📊 GitHub статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) <!-- Замените YourGitHubUsername на ваш ник -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical) <!-- Замените YourGitHubUsername на ваш ник -->
+
