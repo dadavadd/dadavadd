@@ -48,7 +48,7 @@
 
 ## 📊 GitHub статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) <!-- Замените YourGitHubUsername на ваш ник -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dadavadd&show_icons=true&theme=radical) <!-- Замените YourGitHubUsername на ваш ник -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical) <!-- Замените YourGitHubUsername на ваш ник -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadavadd&layout=compact&theme=radical) <!-- Замените YourGitHubUsername на ваш ник -->
 
